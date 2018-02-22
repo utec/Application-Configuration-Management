@@ -4,6 +4,7 @@ Zuul is a secure application for Web Application Configuration Management.
 
 # More Information
 
+ - [Updated Installation Steps](https://github.com/utec/Application-Configuration-Management/wiki/Instalation-from-Source-Code)
  - [Official Wiki Documentation](https://github.com/Confluex/Zuul/wiki)
  - [Mulesoft Blog - Integration with Mule](http://blogs.mulesoft.org/mule-meets-zuul-centralized-properties-management-part-1/)
  - [Eddú Meléndez Blog - Zuul installation with LDAP](http://eddumelendez.github.io/blog/2014/08/11/zuul-application-configuration-management/)
@@ -57,3 +58,7 @@ Thanks to YourKit for donating Java profiler licenses.
  ZUUL is a registered trademark of Confluex, Inc.
  Copyright 2016, Confluex Inc.
  http://confluex.com
+ 
+# Open Source Collaborator
+
+- Richard Leon Ingaruca : http://jrichardsz.github.io/ 
