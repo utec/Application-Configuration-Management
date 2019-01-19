@@ -1,11 +1,14 @@
-# Zuul
-"The Gatekeeper of Gozer"
-Zuul is a secure application for Web Application Configuration Management. 
+# Magi Properties Management
+
+Magi is a free, open source web application which can be used to centralize and manage configuration for your internal applications. It enables your operations team to control changes and your developers a centralized place to organize settings.
+
+![Magi System](https://raw.githubusercontent.com/wiki/utec/magi-properties-management/screenshots/logo_magi.png)
+
+This is a fork of https://github.com/Confluex/Zuul with the sole objective of resurrecting this holy repository: b
 
 # More Information
 
- - [Updated Installation Steps](https://github.com/utec/Application-Configuration-Management/wiki/Instalation-from-Source-Code)
- - [Official Wiki Documentation](https://github.com/Confluex/Zuul/wiki)
+ - [Updated Wiki Documentation](https://github.com/utec/magi-properties-management/wiki)
  - [Mulesoft Blog - Integration with Mule](http://blogs.mulesoft.org/mule-meets-zuul-centralized-properties-management-part-1/)
  - [Eddú Meléndez Blog - Zuul installation with LDAP](http://eddumelendez.github.io/blog/2014/08/11/zuul-application-configuration-management/)
 
